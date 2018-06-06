@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
+title:          William Granados
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/blog"
 url:            "https://wlgranados.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         William Granados
+  url:          https://wgma.ca
+  email:        me@wgma00.me
 
 # Build settings
 markdown:       kramdown
